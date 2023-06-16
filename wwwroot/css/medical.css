@@ -1,0 +1,13 @@
+﻿body {
+}
+li{
+    list-style-type:none;
+}
+.medical-nav-heading {
+    gap: 39px;
+    display: flex !important;
+}
+.medical-nav-heading li{
+    font-size:16px;
+    font-weight:500;
+}
